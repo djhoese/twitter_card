@@ -30,7 +30,7 @@ In `pelicanconf.py` add:
     TWITTER_CARD_USE = (True) # (False)
     TWITTER_CARD_SITE = ''  # The site's Twitter handle like @my_blog
     TWITTER_CARD_SITE_ID = ''  # The site's Twitter ID
-    TWITTER_CARD_CREATOR = '@m<yourhandle>'  # Your twitter handle like @monkmartinez
+    TWITTER_CARD_CREATOR = '@<yourhandle>'  # Your twitter handle like @monkmartinez
     TWITTER_CARD_CREATOR_ID = ''  # The site creator's id
     GRAVATAR_URL = ''
 ```
